@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewsPakistan</string>
+    <string name="app_title"><b><i>لائیو پاکستانی خبریں </i></b></string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-1834819869333395/9648417984</string>
+    <string name="admob_interstitial_id">ca-app-pub-1834819869333395/4695651818</string>
+    <string name="native_ad_unit_id">ca-app-pub-1834819869333395/6803118016</string>
+    <string name="video_ad_unit_id">ca-app-pub-1834819869333395/9157818619</string>
+</resources>

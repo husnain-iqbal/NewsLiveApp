@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1084483713222",
+    "firebase_url": "https://livenewspak-16e1c.firebaseio.com",
+    "project_id": "livenewspak-16e1c",
+    "storage_bucket": "livenewspak-16e1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084483713222:android:5d27e99c65dbc71d",
+        "android_client_info": {
+          "package_name": "my.live.streaming.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084483713222-ssaqfp5v1achf0o2q0o3vccrresjg9rj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.live.streaming.myapplication",
+            "certificate_hash": "9993c0f098b36eafbd3f00ed1f9928891848a2fe"
+          }
+        },
+        {
+          "client_id": "1084483713222-7t2ima98b7rcmf6o7t0d3po248tar610.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLpsskRUbd5pGJZtMqc-KqF0lRaWWc6II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084483713222-7t2ima98b7rcmf6o7t0d3po248tar610.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084483713222:android:bb7ae4bddb90e048",
+        "android_client_info": {
+          "package_name": "news.in.pak.pakistannews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084483713222-i4692baoj8foi839cc3vfra758qp7lgq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "news.in.pak.pakistannews",
+            "certificate_hash": "9993c0f098b36eafbd3f00ed1f9928891848a2fe"
+          }
+        },
+        {
+          "client_id": "1084483713222-7t2ima98b7rcmf6o7t0d3po248tar610.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLpsskRUbd5pGJZtMqc-KqF0lRaWWc6II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084483713222-7t2ima98b7rcmf6o7t0d3po248tar610.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
